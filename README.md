@@ -5,6 +5,8 @@
 
 Ionic slide with zoom modal
 
+![](./image-slide.gif)
+
 ### How To Use:
 
 ```bash
