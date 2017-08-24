@@ -1,0 +1,24 @@
+.slide-wrapper,
+.slide-content,
+.slidewrap {
+  height: 100%;
+  width: 100%;
+}
+
+.slide-wrapper {
+  position: absolute;
+  z-index: 10;
+}
+
+slide-content.slidewrap {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+}
+
+slide-cmp {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}

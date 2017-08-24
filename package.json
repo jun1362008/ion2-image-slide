@@ -1,0 +1,46 @@
+{
+  "name": "ion2-image-slide",
+  "version": "1.0.0",
+  "description": "A template for creating reusable module for Angular 2 and Ionic 2",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "ngc": "ngc",
+    "build": "rm -rf aot dist && npm run ngc",
+    "publishPackage": "npm run build && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jun1362008/ion-image-slide.git"
+  },
+  "keywords": [
+    "ionic",
+    "slide",
+    "zoom"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/driftyco/ionic-module-template/issues"
+  },
+  "homepage": "https://github.com/driftyco/ionic-module-template#readme",
+  "devDependencies": {
+    "@angular/common": "4.0.0",
+    "@angular/compiler": "4.0.0",
+    "@angular/compiler-cli": "4.0.0",
+    "@angular/core": "4.0.0",
+    "@angular/forms": "4.0.0",
+    "@angular/http": "4.0.0",
+    "@angular/platform-browser": "4.0.0",
+    "@angular/platform-browser-dynamic": "4.0.0",
+    "@ionic-native/core": "3.4.2",
+    "@ionic-native/splash-screen": "3.4.2",
+    "@ionic-native/status-bar": "3.4.2",
+    "@ionic/storage": "2.0.1",
+    "ionicons": "3.0.0",
+    "@types/node": "^6.0.49",
+    "ionic-angular": "^3.6.0",
+    "rxjs": ">=5.0.0-beta.12",
+    "typescript": "^2.0.3"
+  }
+}
