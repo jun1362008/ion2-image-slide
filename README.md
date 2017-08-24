@@ -8,13 +8,13 @@ Ionic slide with zoom modal
 ### How To Use:
 
 ```bash
-$ npm install ion-image-slide --save
+$ npm install ion2-image-slide --save
 ```
 
 Then cd into `app.ts`:
 
 ```bash
-import { SlideModule, SlideCmp }
+import { SlideModule, SlideCmp } from 'ion2-image-slide';
 ```
 
 ```

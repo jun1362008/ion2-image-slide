@@ -1,6 +1,6 @@
 {
   "name": "ion2-image-slide",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A template for creating reusable module for Angular 2 and Ionic 2",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -21,9 +21,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/driftyco/ionic-module-template/issues"
+    "url": "https://github.com/jun1362008/ion2-image-slide/issues"
   },
-  "homepage": "https://github.com/driftyco/ionic-module-template#readme",
+  "homepage": "https://github.com/jun1362008/ion2-image-slide",
   "devDependencies": {
     "@angular/common": "4.0.0",
     "@angular/compiler": "4.0.0",
