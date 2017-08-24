@@ -1,7 +1,7 @@
 # Ionic Slide Zoom
 
-[![](https://img.shields.io/badge/ionic-3.6.0-blue.svg?ionic=3.6.0)](https://github.com/jun1362008/ion-image-slide)
-[![](https://img.shields.io/npm/v/@cycle/core.svg)](https://www.npmjs.com/package/ion-image-slide)
+[![](https://img.shields.io/badge/ionic-3.6.0-blue.svg?ionic=3.6.0)](https://github.com/jun1362008/ion2-image-slide)
+[![](https://img.shields.io/npm/v/@cycle/core.svg)](https://www.npmjs.com/package/ion2-image-slide)
 
 Ionic slide with zoom modal
 

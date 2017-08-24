@@ -1,6 +1,6 @@
 {
   "name": "ion2-image-slide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template for creating reusable module for Angular 2 and Ionic 2",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jun1362008/ion-image-slide.git"
+    "url": "https://github.com/jun1362008/ion2-image-slide.git"
   },
   "keywords": [
     "ionic",
